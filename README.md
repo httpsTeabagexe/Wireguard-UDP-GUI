@@ -52,7 +52,7 @@ Display status messages and error messages in a log window
 
 
 ## Usage:
-- Download the script and save it to a file (e.g., WireGuardManager.ps1).
+- Download files and save them in same direction.
 - Open a PowerShell window as an administrator.
 - Run the script with the following command: .\WireGuardManager.ps1
 
