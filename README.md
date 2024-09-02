@@ -37,6 +37,8 @@ $Socket.Close()
 ## Wireguard-UDP-GUI
 This script is a graphical user interface (GUI) application for managing a WireGuard VPN connection. It allows users to import WireGuard configuration files, start and stop the WireGuard process, and send UDP packets to a specified IP address and port. The script also includes a log window for displaying status messages and error messages.
 
+![image](https://github.com/user-attachments/assets/91d36549-581d-413b-aa56-3cebf9e7fc87)
+
 
 ## Features:
 Import WireGuard configuration files
@@ -52,6 +54,12 @@ Display status messages and error messages in a log window
 
 
 ## Usage:
+GUI:
+- Run .ps1 file as admin(!)
+- Import config
+- Press "Start WireGuard"
+  
+CLI:
 - Download files and save them in same direction.
 - Open a PowerShell window as an administrator.
 - Run the script with the following command: .\WireGuardManager.ps1
